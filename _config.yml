@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
 description: This is my personal website, where I share the recent events and news about my research career.
-logo: ![Logo](/MohammadTavakolian/images/logo.png)
+logo: "/images/logo.png"
