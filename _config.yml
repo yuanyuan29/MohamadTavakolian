@@ -2,9 +2,5 @@ theme: jekyll-theme-minimal
 title: "Mohammad Tavakolian"
 description: This is my personal website, where I share the recent events and news about my research career.
 logo: "/images/logo.png"
-author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            : "mohammad.tavakolian@oulu.fi"
+email            : "mohammad.tavakolian@oulu.fi"
+  
