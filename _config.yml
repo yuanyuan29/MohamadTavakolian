@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: "Mohammad Tavakolian"
-description: "This is my personal website, where I share the recent events and news about my research career. <br /> **Email:** firstname.lastname@oulu.fi"
+description: "This is my personal website, where I share the recent events and news about my research career. <br /> Email: firstname.lastname@oulu.fi"
 logo: "/images/logo.png"
-email: "mohammad.tavakolian@oulu.fi"
+social-network-links:
+  email: "someone@example.com"
   
