@@ -1,5 +1,4 @@
-#theme: jekyll-theme-minimal
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-minimal
 title: "Mohammad Tavakolian"
 description: "This is my personal website, where I share the recent events and news about my research career. <br /> Email: firstname.lastname@oulu.fi"
 logo: "/images/logo.png"
